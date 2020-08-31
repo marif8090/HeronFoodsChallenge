@@ -1,0 +1,8 @@
+C:\Users\Arif\source\repos\HeronFoodsChallenge\CSVDataAccess\bin\Debug\netstandard2.0\CSVDataAccess.deps.json
+C:\Users\Arif\source\repos\HeronFoodsChallenge\CSVDataAccess\bin\Debug\netstandard2.0\CSVDataAccess.dll
+C:\Users\Arif\source\repos\HeronFoodsChallenge\CSVDataAccess\bin\Debug\netstandard2.0\CSVDataAccess.pdb
+C:\Users\Arif\source\repos\HeronFoodsChallenge\CSVDataAccess\obj\Debug\netstandard2.0\CSVDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Arif\source\repos\HeronFoodsChallenge\CSVDataAccess\obj\Debug\netstandard2.0\CSVDataAccess.AssemblyInfoInputs.cache
+C:\Users\Arif\source\repos\HeronFoodsChallenge\CSVDataAccess\obj\Debug\netstandard2.0\CSVDataAccess.AssemblyInfo.cs
+C:\Users\Arif\source\repos\HeronFoodsChallenge\CSVDataAccess\obj\Debug\netstandard2.0\CSVDataAccess.dll
+C:\Users\Arif\source\repos\HeronFoodsChallenge\CSVDataAccess\obj\Debug\netstandard2.0\CSVDataAccess.pdb
